@@ -1,0 +1,1109 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.3932331714914556,
+               48.89425724937604
+            ]
+         },
+         "properties": {
+            "name": "Zénith Paris",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_165_default_lg.jpeg",
+            "description": "Haltérophilie, Judo, Taekwondo",
+            "capacite": 6000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.4259722181222747,
+               48.94343246612891
+            ]
+         },
+         "properties": {
+            "name": "Village des médias",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_143_default_lg.jpeg",
+            "description": ""
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.4176573669367,
+               48.94243182280934
+            ]
+         },
+         "properties": {
+            "name": "Le Bourget - Pavillon II",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_151_default_lg.jpeg",
+            "description": "Volleyball",
+            "capacite": 12000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.418893565548635,
+               48.93763970970383
+            ]
+         },
+         "properties": {
+            "name": "Le Bourget - Pavillon I",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_149_default_lg.jpeg",
+            "description": "Badminton",
+            "capacite": 7000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+               [
+                  [
+                     2.4201518267839486,
+                     48.94314355170954
+                  ],
+                  [
+                     2.4219757302042133,
+                     48.94563100363317
+                  ],
+                  [
+                     2.4222010366606233,
+                     48.94601855536564
+                  ],
+                  [
+                     2.422372695728266,
+                     48.94647656555995
+                  ],
+                  [
+                     2.4223834216127584,
+                     48.9467090942004
+                  ],
+                  [
+                     2.4222654099338836,
+                     48.94689229978724
+                  ],
+                  [
+                     2.4220508293619663,
+                     48.94717414823069
+                  ],
+                  [
+                     2.4218849554447535,
+                     48.947470089447876
+                  ],
+                  [
+                     2.4216860504745434,
+                     48.94826629959971
+                  ],
+                  [
+                     2.421546578043531,
+                     48.94864678679991
+                  ],
+                  [
+                     2.4194008082569662,
+                     48.94923864411163
+                  ],
+                  [
+                     2.4191755018005563,
+                     48.94988686325942
+                  ],
+                  [
+                     2.418918008707516,
+                     48.94997846325296
+                  ],
+                  [
+                     2.417888036335356,
+                     48.94928091978662
+                  ],
+                  [
+                     2.4176841906310838,
+                     48.94921046227489
+                  ],
+                  [
+                     2.4165898539688166,
+                     48.94761805939828
+                  ],
+                  [
+                     2.4163967341490364,
+                     48.94747713367934
+                  ],
+                  [
+                     2.4160212203939686,
+                     48.94747713367934
+                  ],
+                  [
+                     2.4138647247229112,
+                     48.947639197926776
+                  ],
+                  [
+                     2.4138003514496513,
+                     48.94742076210042
+                  ],
+                  [
+                     2.4139720195004464,
+                     48.94719528694728
+                  ],
+                  [
+                     2.414229503610334,
+                     48.94692048293328
+                  ],
+                  [
+                     2.4143475242723613,
+                     48.94665977200049
+                  ],
+                  [
+                     2.4144440841822514,
+                     48.946455426538904
+                  ],
+                  [
+                     2.4145728307287713,
+                     48.946173574035896
+                  ],
+                  [
+                     2.4144869967033737,
+                     48.945983321368914
+                  ],
+                  [
+                     2.4147874113006895,
+                     48.94582830210763
+                  ],
+                  [
+                     2.414948335500686,
+                     48.945638048124295
+                  ],
+                  [
+                     2.419390073389321,
+                     48.94334086001851
+                  ],
+                  [
+                     2.419615379845731,
+                     48.943369051070505
+                  ],
+                  [
+                     2.4199265203275386,
+                     48.943312674850716
+                  ],
+                  [
+                     2.4201518267839486,
+                     48.94314355170954
+                  ]
+               ]
+            ]
+         },
+         "properties": {
+            "name": "Village des médias",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_143_default_lg.jpeg",
+            "description": "Aire des vents : village des médias"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+               [
+                  [
+                     2.4240678526020107,
+                     48.94419056130553
+                  ],
+                  [
+                     2.4240785784865033,
+                     48.94257275687656
+                  ],
+                  [
+                     2.42853104225963,
+                     48.94257980769967
+                  ],
+                  [
+                     2.428552503011768,
+                     48.94356635848797
+                  ],
+                  [
+                     2.432028650784655,
+                     48.94356635848797
+                  ],
+                  [
+                     2.4323503285047456,
+                     48.943834130328185
+                  ],
+                  [
+                     2.433239660636024,
+                     48.9445669790598
+                  ],
+                  [
+                     2.4325436279875823,
+                     48.94486998033878
+                  ],
+                  [
+                     2.432060837421285,
+                     48.94491225971518
+                  ],
+                  [
+                     2.432028650784655,
+                     48.94466256543575
+                  ],
+                  [
+                     2.4315780378718355,
+                     48.94467267807539
+                  ],
+                  [
+                     2.4315659645144168,
+                     48.94482065632107
+                  ],
+                  [
+                     2.43163167627745,
+                     48.944824178623946
+                  ],
+                  [
+                     2.4316357007299225,
+                     48.944875266737796
+                  ],
+                  [
+                     2.4316222888827315,
+                     48.94494044987951
+                  ],
+                  [
+                     2.431584739303855,
+                     48.9450038688411
+                  ],
+                  [
+                     2.4315418267827327,
+                     48.94501443571022
+                  ],
+                  [
+                     2.4315015912411564,
+                     48.944998582455725
+                  ],
+                  [
+                     2.4314372179678965,
+                     48.945049670391
+                  ],
+                  [
+                     2.4312896966319384,
+                     48.9451412733647
+                  ],
+                  [
+                     2.4311274249590156,
+                     48.94517298567797
+                  ],
+                  [
+                     2.430957104381146,
+                     48.94518003023373
+                  ],
+                  [
+                     2.430798857160696,
+                     48.945146365036095
+                  ],
+                  [
+                     2.430672787593722,
+                     48.94509916528156
+                  ],
+                  [
+                     2.43056550179934,
+                     48.94503381714773
+                  ],
+                  [
+                     2.4305038144887794,
+                     48.94496687593161
+                  ],
+                  [
+                     2.4304716278521497,
+                     48.944882317235596
+                  ],
+                  [
+                     2.4304515055897853,
+                     48.94467267807539
+                  ],
+                  [
+                     2.4274688922339935,
+                     48.94466256543575
+                  ],
+                  [
+                     2.427147025867693,
+                     48.944214651324444
+                  ],
+                  [
+                     2.4240678526020107,
+                     48.94419056130553
+                  ]
+               ]
+            ]
+         },
+         "properties": {
+            "name": "Centre des médias",
+            "img": "",
+            "description": "Parc des Expositions Paris Le Bourget : centre des médias"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.4088489993003357,
+               48.944602214056545
+            ]
+         },
+         "properties": {
+            "name": "Stand de Tir",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_124_default_lg.jpeg",
+            "description": "Tir",
+            "capacite": 3000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               3.13051879339945,
+               50.61192146512215
+            ]
+         },
+         "properties": {
+            "name": "Stade Pierre-Mauroy ",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_94_default_lg.jpeg",
+            "description": "Football",
+            "capacite": 50000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.6372551914128888,
+               48.86143981248421
+            ]
+         },
+         "properties": {
+            "name": "Base nautique de Vaires-sur-Marne ",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_166_default_lg.jpeg",
+            "description": "Aviron",
+            "capacite": 12000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               4.982028996430796,
+               45.76529499517082,
+               0
+            ]
+         },
+         "properties": {
+            "name": "Groupama Stadium",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_99_default_lg.jpeg",
+            "description": "Football",
+            "capacite": 58000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               5.395887294485315,
+               43.269826994682575,
+               0
+            ]
+         },
+         "properties": {
+            "name": "Stade Velodrome ",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_80_default_lg.jpeg",
+            "description": "Football",
+            "capacite": 67000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               4.390116191849575,
+               45.46073179626356,
+               0
+            ]
+         },
+         "properties": {
+            "name": "Stade Geoffroy-Guichard ",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_101_default_lg.jpeg",
+            "description": "Football",
+            "capacite": 42000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               5.362309805284064,
+               43.27340901401874,
+               0
+            ]
+         },
+         "properties": {
+            "name": "Marina",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_168_default_lg.jpeg",
+            "description": "Voile",
+            "capacite": 5000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               7.192584993825541,
+               43.705058999196666,
+               0
+            ]
+         },
+         "properties": {
+            "name": "Allianz Arena",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_102_default_lg.jpeg",
+            "description": "Football",
+            "capacite": 35000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.3909157426372483,
+               48.890970126374356
+            ]
+         },
+         "properties": {
+            "name": "Grande Halle de la Villette",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_109_default_lg.jpeg",
+            "description": "Haltérophilie",
+            "capacite": 5000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+               [
+                  [
+                     5.395440459251404,
+                     43.273100460438656
+                  ],
+                  [
+                     5.394131541252136,
+                     43.27319810546325
+                  ],
+                  [
+                     5.393707752227783,
+                     43.27311608365309
+                  ],
+                  [
+                     5.393396615982055,
+                     43.272776277833486
+                  ],
+                  [
+                     5.393235683441162,
+                     43.27249896363213
+                  ],
+                  [
+                     5.393305420875549,
+                     43.27233101216339
+                  ],
+                  [
+                     5.394142270088195,
+                     43.272260706759795
+                  ],
+                  [
+                     5.395327806472778,
+                     43.27215915436676
+                  ],
+                  [
+                     5.395494103431701,
+                     43.2730360146366
+                  ],
+                  [
+                     5.395440459251404,
+                     43.273100460438656
+                  ]
+               ]
+            ]
+         },
+         "properties": {
+            "name": "Village olympique",
+            "img": "http://sports-loisirs.marseille.fr/sites/default/files/contenu/Sports-loisirs/JO_2024/chanot-village-olympique_v20-11-2017_1000px.jpg",
+            "capacite": ""
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.2824472173686288,
+               48.877734794754076
+            ]
+         },
+         "properties": {
+            "name": "Hôtels CIO/IPC",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_122_default_lg.jpeg",
+            "capacite": ""
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.360022060178832,
+               48.924529530483994
+            ]
+         },
+         "properties": {
+            "name": "Stade de France",
+            "description": "Athlétisme, Cérémonies",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_146_default_lg.jpeg",
+            "capacite": 80000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.3307698961885452,
+               48.92303503722434
+            ]
+         },
+         "properties": {
+            "name": "Village olympique",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_114_default_lg.jpeg"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.354448436049054,
+               48.92623546126882
+            ]
+         },
+         "properties": {
+            "name": "Centre Aquatique",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_47_default_lg.jpeg",
+            "capacite": "15000",
+            "description": "Natation"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+               [
+                  [
+                     2.3278194604862303,
+                     48.92151934375576
+                  ],
+                  [
+                     2.3282445702281342,
+                     48.92123029659581
+                  ],
+                  [
+                     2.32896322245543,
+                     48.92091305584978
+                  ],
+                  [
+                     2.3299866910249327,
+                     48.920490057183315
+                  ],
+                  [
+                     2.33337699578927,
+                     48.92423345323422
+                  ],
+                  [
+                     2.331649652278895,
+                     48.925088349228105
+                  ],
+                  [
+                     2.3314028940535008,
+                     48.924896097917554
+                  ],
+                  [
+                     2.3309200945040502,
+                     48.924451990547
+                  ],
+                  [
+                     2.3299974169094253,
+                     48.923493258332655
+                  ],
+                  [
+                     2.3285597531287205,
+                     48.922189072252536
+                  ],
+                  [
+                     2.3277229005763402,
+                     48.921623556864716
+                  ],
+                  [
+                     2.3278194604862303,
+                     48.92151934375576
+                  ]
+               ]
+            ]
+         },
+         "properties": {
+            "name": "Village olympique (polygone)",
+            "img": ""
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.386554475831765,
+               48.93971869658819
+            ]
+         },
+         "properties": {
+            "name": "Piscine de Marville",
+            "description": "Water-polo",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_148_default_lg.jpeg",
+            "capacite": 5000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.378808258221038,
+               48.83857978324485
+            ]
+         },
+         "properties": {
+            "name": "Bercy Paris Arena I",
+            "description": "Judo, Basketball",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_163_default_lg.jpeg",
+            "capacite": 15000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.2969742151879338,
+               48.8566399276271
+            ]
+         },
+         "properties": {
+            "name": "Champ de Mars",
+            "description": "Beach volley, Football à 5, Boccia",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_126_default_lg.jpeg",
+            "capacite": 12000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.313120956312882,
+               48.85994342620015
+            ]
+         },
+         "properties": {
+            "name": "Esplanade des Invalides",
+            "description": "Tir à l'arc",
+            "capacite": 6000,
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_12_default_lg.jpeg"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.294012900887528,
+               48.85855287648155
+            ]
+         },
+         "properties": {
+            "name": "Tour Eiffel",
+            "description": "Triathlon, Natation",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_128_default_lg.jpeg",
+            "capacite": 3000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.295058962086427,
+               48.87374799261201
+            ]
+         },
+         "properties": {
+            "name": "Champs-Elysées",
+            "description": "Cyclisme sur route",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_154_default_lg.jpeg",
+            "capacite": 4000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.3120158847829693,
+               48.86621100247427
+            ]
+         },
+         "properties": {
+            "name": "Grand Palais",
+            "description": "Escrime, Taekwondo",
+            "capacite": 7000,
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_7_default_lg.jpeg"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.284458868683275,
+               48.83232287400628
+            ]
+         },
+         "properties": {
+            "name": "Paris Expo - Hall IV",
+            "description": "Tennis de table",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_19_default_lg.jpeg",
+            "capacite": 6000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.289158872216094,
+               48.829822712277576
+            ]
+         },
+         "properties": {
+            "name": "Paris Expo - Hall I",
+            "description": "Handball",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_157_default_lg.jpeg",
+            "capacite": 12000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.2564968381545825,
+               48.835366679243265
+            ]
+         },
+         "properties": {
+            "name": "Stade Pierre-de-Coubertin",
+            "description": "Basket, Goalball, Tennis de table",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_169_default_lg.jpeg",
+            "capacite": 4000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.3792642340761043,
+               48.83697146544421
+            ]
+         },
+         "properties": {
+            "name": "Paris Arena II",
+            "description": "Basketball, Lutte, Tennis de table",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_163_default_lg.jpeg",
+            "capacite": 8000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.249249517903197,
+               48.847146266783625
+            ]
+         },
+         "properties": {
+            "name": "Roland-Garros",
+            "description": "Tennis, Boxe, Sports paralympiques",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_161_default_lg.jpeg",
+            "capacite": 15000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.2296586629283937,
+               48.895710282614345
+            ]
+         },
+         "properties": {
+            "name": "U Arena",
+            "description": "Gymnastique, GRS, Trampoline",
+            "capacite": 17500,
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_41_default_lg.jpeg"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.252739068540124,
+               48.84333317551031
+            ]
+         },
+         "properties": {
+            "name": "Parc des Princes",
+            "description": "Football",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_158_default_lg.jpeg",
+            "capacite": 45000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.2479540035330516,
+               48.929343753318534
+            ]
+         },
+         "properties": {
+            "name": "Stade Yves-du-Manoir",
+            "description": "Hockey",
+            "capacite": 10000,
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_164_default_lg.jpeg"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.0348900483264476,
+               48.78802902271954
+            ]
+         },
+         "properties": {
+            "name": "Vélodrome National",
+            "description": "Cyclisme sur piste & Pentathlon moderne",
+            "capacite": 5000,
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_63_default_lg.jpeg"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               1.9661772205413766,
+               48.78814211959374
+            ]
+         },
+         "properties": {
+            "name": "Colline d'Elancourt",
+            "description": "VTT",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_70_default_lg.jpeg",
+            "capacite": 2000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.0151221713417553,
+               48.79198024283954
+            ]
+         },
+         "properties": {
+            "name": "Piste BMX",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_67_default_lg.jpeg",
+            "capacite": 6000,
+            "description": "BMX"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.1199053491741213,
+               48.80488493566969
+            ]
+         },
+         "properties": {
+            "name": "Château de Versailles",
+            "description": "Equitation, Dressage, Sports équestres, Pentathlon Moderne",
+            "capacite": 20000,
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_58_default_lg.jpeg"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.2530180134021487,
+               48.84136900689225
+            ]
+         },
+         "properties": {
+            "name": "Stade Jean-Bouin",
+            "description": "Rugby",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_160_default_lg.jpeg",
+            "capacite": 20000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.5775680498406608,
+               43.47584385366616
+            ]
+         },
+         "properties": {
+            "name": "Biarritz",
+            "description": "Surf"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.4482212041320381,
+               43.66265615419397
+            ]
+         },
+         "properties": {
+            "name": "Hossegor",
+            "description": "Surf"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               1.434047998804231,
+               43.583297198758174,
+               0
+            ]
+         },
+         "properties": {
+            "name": "Stadium Municipal",
+            "description": "Football",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_85_default_lg.jpeg",
+            "capacite": 33000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.121292112553773,
+               44.974513700974256,
+               0
+            ]
+         },
+         "properties": {
+            "name": "Lacanau",
+            "description": "Surf",
+            "img": "",
+            "capacite": ""
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -0.56155299987931,
+               44.89738099767311,
+               0
+            ]
+         },
+         "properties": {
+            "name": "Stade Matmut-Atlantique",
+            "description": "Football",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_87_default_lg.jpeg",
+            "capacite": 42000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.524589061543345,
+               47.256310621993265,
+               0
+            ]
+         },
+         "properties": {
+            "name": "Stade de la Beaujoire",
+            "description": "Football",
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_90_default_lg.jpeg",
+            "capacite": 38000
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               2.0761323857399905,
+               48.75174663114575
+            ]
+         },
+         "properties": {
+            "name": "Golf national",
+            "description": "Golf",
+            "capacite": 5000,
+            "img": "http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_71_default_lg.jpeg"
+         }
+      }
+   ]
+}
