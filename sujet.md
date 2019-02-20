@@ -58,30 +58,35 @@ ALTER TABLE ancien_nom RENAME AS nouveau_nom;
 Le site sera composé de trois pages
 1. Une page d’accueil donnant quelques informations sur vous, le master, le module, le projet, le sujet, etc...
 2. Une page de visualisation
-  - avec une carte qui affiche nos données
-  - centrée au chargement de la page sur ces données
+  - avec une carte qui affiche nos données, fond cartographique IGN et couche vecteur jo2024
+  - centrée au chargement de la page sur ces données (jo2024)
   - dans laquelle s’ouvre un popup d’informations quand on clique sur un lieu
-  - avec un tableau avec les données chargées en PHP depuis la base de données. Chaque ligne correspond à un lieu avec son nom, sa capacité, les sports accueillis et possède un bouton qui centre la carte sur le site sélectionné
+  - avec un tableau avec les données chargées en javascript depuis la couche jo2024. Chaque ligne correspond à un lieu avec son nom, sa capacité, les sports accueillis et possède un bouton qui centre la carte sur le site sélectionné
 3. Une page de requête avec :
   - une carte du Géoportail affichant nos données
-  - un formulaire de recherche, permettant d'afficher les 10 sites les plus proches d’un des points de logement (sélectionné par l’utilisateur dans un menu déroulant)
-
+  - un champ de recherche, permettant d'afficher les sites dont le nom, ou la discpline contient la recherche. Il faudra effectuer une requete sur la base de données.
+  
 ## Conseils
 
 La troisième page est plus délicate et devra être abordée en dernier
 
-Piste : On pourra vérifier au chargement de la page l'existence des paramètres `$_GET['start']`. S’il existe, c'est nécessairement qu'une requête a été effectuée précédemment et on l'exécute.
+Piste : On pourra vérifier au chargement de la page l'existence des paramètres `$_GET['search']`. S’il existe, c'est nécessairement qu'une requête a été effectuée précédemment et on l'exécute.
 
 Sinon, on affiche simplement la carte et le formulaire.
 
-Le formulaire renvoie sur la même page avec (par exemple) dans l'url le paramètre start éventuellement saisi.
+Le formulaire renvoie sur la même page avec (par exemple) dans l'url le paramètre `search` éventuellement saisi.
 
 
 ## Notation
 
+- Les parties HTML, CSS, JAVASCRIPT on le même poids dans la notation
+- La partie PHP est moins importante.
+
+En plus du côté fonctionnel du site (mise en place des 3 pages), les correcteurs feront attentions à :
 - Compréhension du sujet
 - Atteinte et dépassement du sujet.
 - Qualité des pages proposées
 - Mise en valeur de l'information géographique utilisée
 - Qualité et technicité du développement
 - Prestation orale
+
