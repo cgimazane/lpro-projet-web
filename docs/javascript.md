@@ -10,21 +10,21 @@ Certificat de naissance :
 * Parent : Brendan Eich
 * Date de naissance : 1995
 * Lieu de naissance : NetScape 2
-* Premier moteur JS écrit en C : SpriderMonkey
+* Premier moteur JS écrit en C : SpiderMonkey
 
 Caractéristiques :
 * Interprété
-* Légé
+* Léger
 * Orienté Prototype
 * Multiparadigme
 * Dynamique
 * Impératif
 * Fonctionnel
 
-Différent de java
+Différent de JAVA
 * D'abord appelé LiveScript.
-* Renomé Javascript pour "profiter" de la popularité du langage JAVA (Sun Microsystem).
-* Reprend les structure de controle, les éléments de langage du Java et C++ pour faciliter l'apprentissage
+* Renommé JavaScript pour "profiter" de la popularité du langage JAVA (Sun Microsystem).
+* Reprend les structures de contrôle, les éléments de langage du Java et C++ pour faciliter l'apprentissage
 
 Le langage est normalisé en 1997 avec ECMAScript :
 * V2 - 1999
@@ -33,26 +33,30 @@ Le langage est normalisé en 1997 avec ECMAScript :
 * V5 - 2009
 * V6 - 2015
 
-Implémentations de javascript :
+Implémentations de JavaScript :
 * SpiderMonkey moteur de Firefox / Thunderbird
-* V8 - Google / Opéra / Nodejs
-* JavascriptCore - Safari
+* V8 - Google / Opera / NodeJs
+* JavaScriptCore - Safari
 * Chakra - I.E.
 
-Les moteurs Javascript expose des APIs (interface de programmation) à partir desquelles les objets javascript pour manipuler le DOM on été crées.
+Les moteurs Javascript expose des APIs (interface de programmation) à partir desquelles les objets JavaScript pour manipuler le DOM ont été crées.
 
 JS n'a pas de concept d'entrée / sortie (vs java / c++ / shell)
+
 Execution du script dans un environnement hôte qui fournit les mécanismes de communication.
+
 On retrouve JS dans : 
 * les navigateurs
 * Adobe / photoshop
-* Nodejs
+* NodeJs
 * Apache Couche DB
 * GNOME (interface graphique Ubuntu)
 
-## Evolution d'internet
+# Evolution d'Internet
 
 [Evolution du web](http://www.evolutionoftheweb.com/)
+
+# Les types
 
 ## Les Nombres
 
@@ -74,16 +78,16 @@ Deux valeurs : true / false
 Tout peut être interprété en booléen
 * ```false, 0, "", NaN, null, undefined```
   * false
-* tout autre valeur
+* toute autre valeur
   * true
 
 ## Déclaration et portée
 
-```var``` déclare un variable qui peut être utilité dans tout le bloc
+```var``` déclare une variable qui peut être utilisée dans tout le bloc
 
-```let``` déclare un variable qui n'est utilisé que dans le bloc où elle est déclaré
+```let``` déclare une variable qui n'est utilisée que dans le bloc où elle est déclarée
 
-```const``` déclare variable qui ne pourra pas être ré-affecté
+```const``` déclare une variable qui ne pourra pas être ré-affectée
 
 ## Opérateur
 
