@@ -1,49 +1,41 @@
-latitude,longitude,name,img,description,capacite
-48.89425724937604,2.3932331714914556,Zénith Paris,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_165_default_lg.jpeg,"Haltérophilie, Judo, Taekwondo",6000
-48.94343246612891,2.4259722181222747,Village des médias,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_143_default_lg.jpeg,,
-48.94243182280934,2.4176573669367,Le Bourget - Pavillon II,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_151_default_lg.jpeg,Volleyball,12000
-48.93763970970383,2.418893565548635,Le Bourget - Pavillon I,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_149_default_lg.jpeg,Badminton,7000
-,,Village des médias,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_143_default_lg.jpeg,Aire des vents : village des médias,
-,,Centre des médias,,Parc des Expositions Paris Le Bourget : centre des médias,
-48.944602214056545,2.4088489993003357,Stand de Tir,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_124_default_lg.jpeg,Tir,3000
-50.61192146512215,3.13051879339945,Stade Pierre-Mauroy ,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_94_default_lg.jpeg,Football,50000
-48.86143981248421,2.6372551914128888,Base nautique de Vaires-sur-Marne ,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_166_default_lg.jpeg,Aviron,12000
-45.76529499517082,4.982028996430796,Groupama Stadium,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_99_default_lg.jpeg,Football,58000
-43.269826994682575,5.395887294485315,Stade Velodrome ,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_80_default_lg.jpeg,Football,67000
-45.46073179626356,4.390116191849575,Stade Geoffroy-Guichard ,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_101_default_lg.jpeg,Football,42000
-43.27340901401874,5.362309805284064,Marina,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_168_default_lg.jpeg,Voile,5000
-43.705058999196666,7.192584993825541,Allianz Arena,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_102_default_lg.jpeg,Football,35000
-48.890970126374356,2.3909157426372483,Grande Halle de la Villette,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_109_default_lg.jpeg,Haltérophilie,5000
-,,Village olympique,http://sports-loisirs.marseille.fr/sites/default/files/contenu/Sports-loisirs/JO_2024/chanot-village-olympique_v20-11-2017_1000px.jpg,,
-48.877734794754076,2.2824472173686288,Hôtels CIO/IPC,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_122_default_lg.jpeg,,
-48.924529530483994,2.360022060178832,Stade de France,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_146_default_lg.jpeg,"Athlétisme, Cérémonies",80000
-48.92303503722434,2.3307698961885452,Village olympique,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_114_default_lg.jpeg,,
-48.92623546126882,2.354448436049054,Centre Aquatique,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_47_default_lg.jpeg,Natation,15000
-,,Village olympique (polygone),,,
-48.93971869658819,2.386554475831765,Piscine de Marville,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_148_default_lg.jpeg,Water-polo,5000
-48.83857978324485,2.378808258221038,Bercy Paris Arena I,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_163_default_lg.jpeg,"Judo, Basketball",15000
-48.8566399276271,2.2969742151879338,Champ de Mars,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_126_default_lg.jpeg,"Beach volley, Football à 5, Boccia",12000
-48.85994342620015,2.313120956312882,Esplanade des Invalides,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_12_default_lg.jpeg,Tir à l'arc,6000
-48.85855287648155,2.294012900887528,Tour Eiffel,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_128_default_lg.jpeg,"Triathlon, Natation",3000
-48.87374799261201,2.295058962086427,Champs-Elysées,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_154_default_lg.jpeg,Cyclisme sur route,4000
-48.86621100247427,2.3120158847829693,Grand Palais,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_7_default_lg.jpeg,"Escrime, Taekwondo",7000
-48.83232287400628,2.284458868683275,Paris Expo - Hall IV,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_19_default_lg.jpeg,Tennis de table,6000
-48.829822712277576,2.289158872216094,Paris Expo - Hall I,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_157_default_lg.jpeg,Handball,12000
-48.835366679243265,2.2564968381545825,Stade Pierre-de-Coubertin,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_169_default_lg.jpeg,"Basket, Goalball, Tennis de table",4000
-48.83697146544421,2.3792642340761043,Paris Arena II,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_163_default_lg.jpeg,"Basketball, Lutte, Tennis de table",8000
-48.847146266783625,2.249249517903197,Roland-Garros,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_161_default_lg.jpeg,"Tennis, Boxe, Sports paralympiques",15000
-48.895710282614345,2.2296586629283937,U Arena,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_41_default_lg.jpeg,"Gymnastique, GRS, Trampoline",17500
-48.84333317551031,2.252739068540124,Parc des Princes,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_158_default_lg.jpeg,Football,45000
-48.929343753318534,2.2479540035330516,Stade Yves-du-Manoir,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_164_default_lg.jpeg,Hockey,10000
-48.78802902271954,2.0348900483264476,Vélodrome National,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_63_default_lg.jpeg,Cyclisme sur piste & Pentathlon moderne,5000
-48.78814211959374,1.9661772205413766,Colline d'Elancourt,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_70_default_lg.jpeg,VTT,2000
-48.79198024283954,2.0151221713417553,Piste BMX,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_67_default_lg.jpeg,BMX,6000
-48.80488493566969,2.1199053491741213,Château de Versailles,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_58_default_lg.jpeg,"Equitation, Dressage, Sports équestres, Pentathlon Moderne",20000
-48.84136900689225,2.2530180134021487,Stade Jean-Bouin,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_160_default_lg.jpeg,Rugby,20000
-43.47584385366616,-1.5775680498406608,Biarritz,,Surf,
-43.66265615419397,-1.4482212041320381,Hossegor,,Surf,
-43.583297198758174,1.434047998804231,Stadium Municipal,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_85_default_lg.jpeg,Football,33000
-44.974513700974256,-1.121292112553773,Lacanau,,Surf,
-44.89738099767311,-0.56155299987931,Stade Matmut-Atlantique,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_87_default_lg.jpeg,Football,42000
-47.256310621993265,-1.524589061543345,Stade de la Beaujoire,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_90_default_lg.jpeg,Football,38000
-48.75174663114575,2.0761323857399905,Golf national,http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_71_default_lg.jpeg,Golf,5000
+latitude;longitude;altitude;geometry;name;img;description;capacite
+48.89425724937604;2.393233171491456;;Point;Zénith Paris;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_165_default_lg.jpeg;Haltérophilie;6000
+48.94343246612891;2.425972218122275;;Point;Village des médias;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_143_default_lg.jpeg;;
+48.94243182280934;2.4176573669367;;Point;Le Bourget - Pavillon II;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_151_default_lg.jpeg;Volleyball;12000
+48.93763970970383;2.418893565548635;;Point;Le Bourget - Pavillon I;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_149_default_lg.jpeg;Badminton, Tir;7000
+48.944602214056545;2.408848999300336;;Point;Stand de Tir;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_124_default_lg.jpeg;Tir;3000
+50.61192146512215;3.13051879339945;;Point;Stade Pierre-Mauroy ;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_94_default_lg.jpeg;Football;50000
+48.86143981248421;2.637255191412889;;Point;Base nautique de Vaires-sur-Marne ;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_166_default_lg.jpeg;Aviron, Canoë-Kayak;12000
+45.76529499517082;4.982028996430796;;Point;Groupama Stadium;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_99_default_lg.jpeg;Football;58000
+43.269826994682575;5.395887294485315;;Point;Stade Velodrome ;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_80_default_lg.jpeg;Football;67000
+45.46073179626356;4.390116191849575;;Point;Stade Geoffroy-Guichard ;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_101_default_lg.jpeg;Football;42000
+43.27340901401874;5.362309805284064;;Point;Marina;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_168_default_lg.jpeg;Voile;5000
+43.705058999196666;7.192584993825541;;Point;Allianz Riviera;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_102_default_lg.jpeg;Football;35000
+48.890970126374356;2.390915742637248;;Point;Grande Halle de la Villette;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_109_default_lg.jpeg;Haltérophilie;5000
+48.877734794754076;2.282447217368629;;Point;Hôtels CIO/IPC;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_122_default_lg.jpeg;;
+48.924529530483994;2.360022060178832;;Point;Stade de France;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_146_default_lg.jpeg;Athlétisme, Cérémonies;80000
+48.92303503722434;2.330769896188545;;Point;Village olympique;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_114_default_lg.jpeg;;
+48.92623546126882;2.354448436049054;;Point;Centre Aquatique;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_47_default_lg.jpeg;Natation;15000
+48.93971869658819;2.386554475831765;;Point;Piscine de Marville;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_148_default_lg.jpeg;Water-polo;5000
+48.83857978324485;2.378808258221038;;Point;Accor Hotels Arena;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_163_default_lg.jpeg;Judo, Basketball, Lutte, Tennis de table;15000
+48.8566399276271;2.296974215187934;;Point;Champ de Mars;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_126_default_lg.jpeg;Beach volley, Football à 5, Boccia;12000
+48.85994342620015;2.313120956312882;;Point;Esplanade des Invalides;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_12_default_lg.jpeg;Tir à l'arc;6000
+48.85855287648155;2.294012900887528;;Point;Tour Eiffel;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_128_default_lg.jpeg;Triathlon, Marathon, Natation;3000
+48.87374799261201;2.295058962086427;;Point;Champs-Elysées;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_154_default_lg.jpeg;Cyclisme sur route;4000
+48.86621100247427;2.312015884782969;;Point;Grand Palais;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_7_default_lg.jpeg;Escrime, Taekwondo;7000
+48.83232287400628;2.284458868683275;;Point;Paris Expo - Hall IV;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_19_default_lg.jpeg;Tennis de table;6000
+48.829822712277576;2.289158872216094;;Point;Paris Expo - Hall I;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_157_default_lg.jpeg;Handball;12000
+48.835366679243265;2.256496838154582;;Point;Stade Pierre-de-Coubertin;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_169_default_lg.jpeg;Basket, Goalball, Tennis de table;4000
+48.847146266783625;2.249249517903197;;Point;Roland-Garros;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_161_default_lg.jpeg;Tennis, Boxe, Sports paralympiques;15000
+48.895710282614345;2.229658662928394;;Point;U Arena;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_41_default_lg.jpeg;Gymnastique, GRS, Trampoline;17500
+48.84333317551031;2.252739068540124;;Point;Parc des Princes;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_158_default_lg.jpeg;Football;45000
+48.929343753318534;2.247954003533052;;Point;Stade Yves-du-Manoir;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_164_default_lg.jpeg;Hockey sur gazon;10000
+48.78802902271954;2.034890048326448;;Point;Vélodrome National;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_63_default_lg.jpeg;Cyclisme sur piste, Pentathlon moderne, BMX;5000
+48.78814211959374;1.966177220541377;;Point;Colline d'Elancourt;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_70_default_lg.jpeg;VTT;2000
+48.79198024283954;2.015122171341755;;Point;Piste BMX;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_67_default_lg.jpeg;BMX;6000
+48.80488493566969;2.119905349174121;;Point;Château de Versailles;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_58_default_lg.jpeg;Sports équestres, Pentathlon Moderne;20000
+-17.6;-149.4;;Point;Tahiti;;Surf;
+43.583565;1.433666;;Point;Stadium Municipal;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_85_default_lg.jpeg;Football;33000
+44.89738099767311;-0.56155299987931;;Point;Stade Matmut-Atlantique;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_87_default_lg.jpeg;Football;42000
+47.256310621993265;-1.524589061543345;;Point;Stade de la Beaujoire;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_90_default_lg.jpeg;Football;38000
+48.75174663114575;2.07613238573999;;Point;Golf national;http://paris2024.carte3d.vectuel.com/web/uploads/media/default/0001/01/thumb_71_default_lg.jpeg;Golf;30000
